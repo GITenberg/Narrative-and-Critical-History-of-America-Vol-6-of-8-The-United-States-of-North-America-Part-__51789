@@ -1,0 +1,27 @@
+_repo: Narrative-and-Critical-History-of-America-Vol-6-of-8-The-United-States-of-North-America-Part-__51789
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Winsor, Justin
+    birthdate: 1831
+    deathdate: 1897
+    gutenberg_agent_id: '41501'
+    url: http://www.gutenberg.org/2009/agents/41501
+description: ''
+gutenberg_issued: '2016-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51789'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration'
+- !lcsh 'America -- History'
+- !lcc 'E011'
+- !lcsh 'United States -- History'
+- GITenberg
+title: "Narrative and Critical History of America, Vol. 6 (of 8)\r\nThe United States\
+  \ of North America, Part I"
+url: http://www.gutenberg.org/ebooks/51789
